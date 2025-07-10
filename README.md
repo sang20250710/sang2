@@ -10,4 +10,4 @@
 
 这些平台专注于提供欧美日韩与麻豆精品视频内容，按题材与演员分类清晰，帮助用户迅速找到感兴趣的影片。每部视频页面都包含时长、清晰度、演员等详细信息，并支持高清视频播放，系统会根据网络自动优化画质，带来流畅观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang2 ）</span>
